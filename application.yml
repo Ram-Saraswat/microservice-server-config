@@ -1,3 +1,6 @@
+string:
+  profiles:
+    active: dev
 eureka:
   instance:
     prefer-ip-address: true
