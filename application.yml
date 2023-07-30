@@ -6,9 +6,3 @@ eureka:
     register-with-eureka: true
     service-url:
       defaultZone: http://localhost:1124/eureka
-
-spring:
-  application:
-    name: CONFIG-git
-  profiles:
-    active: dev
