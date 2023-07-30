@@ -1,4 +1,4 @@
-string:
+spring:
   profiles:
     active: dev
 eureka:
